@@ -10,6 +10,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ 🚀
+━━━━━━━━━━━━━━━━━━━━━━
 ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ BY CoDeX
 
 <p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/MrHacker5575/CoDeX-USERBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
@@ -29,8 +30,6 @@
 
 
 # Pʏʀᴏɢʀᴀᴍ (V1.4) Sᴇssɪᴏɴ Sᴛʀɪɴɢ
-
-- [BᴏᴛLɪɴᴋ](https://t.me/SessionStringGeneratorRobot)
 
 - Bᴏᴛ Usᴇʀɴᴀᴍᴇ - @SessionStringGeneratorRobot
 
