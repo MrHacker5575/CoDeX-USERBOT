@@ -36,14 +36,14 @@ async def altspam(client: Client, message: Message):
             await asyncio.sleep(0.3)
 
     else:
-        await message.reply_text(f"😈 **ᴜsᴀɢᴇ:**\n  » !spam 13 Altron\n  » !spam 13 <ʀᴇᴘʟʏ ᴛᴏ ᴛᴇxᴛ>\n\n**To do spam with replying to a user:**\n  » !spam 13 Altron <ʀᴇᴘʟʏ ᴛᴏ ᴜꜱᴇʀ>")
+        await message.reply_text(f"😈 **ᴜsᴀɢᴇ:**\n  » !spam 13 CoDeX\n  » !spam 13 <ʀᴇᴘʟʏ ᴛᴏ ᴛᴇxᴛ>\n\n**To do spam with replying to a user:**\n  » !spam 13 CoDeX <ʀᴇᴘʟʏ ᴛᴏ ᴜꜱᴇʀ>")
 
 
 @Client.on_message(filters.command(["pspam", "pornspam"], [".", "/", "!"]) & filters.user(SUDO_USERS))
 async def pspam(client: Client, message: Message):
     cid = message.chat.id
     if int(cid) in GROUP:
-        await message.reply_text("» ꜱᴏʀʀʏ, ᴛʜɪꜱ ɪꜱ ᴀʟᴛʀᴏɴ ᴘʀᴏᴛᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘ.")
+        await message.reply_text("» ꜱᴏʀʀʏ, ᴛʜɪꜱ ɪꜱ CoDeX ᴘʀᴏᴛᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘ.")
         return
 
     altp = message.text.split(" ", 2)
