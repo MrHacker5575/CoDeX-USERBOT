@@ -11,7 +11,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 
-ALT = f"""❖ ⚡🇨Ⓞ𝗗𝜩🇽⚡❖
+ALT = f"""❖⚡🇨Ⓞ𝗗𝜩🇽⚡❖
 
 ➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.11.1`
 ➠ **ᴘʏʀᴏ ᴠᴇʀsɪᴏɴ** : `1.4.16`
