@@ -10,7 +10,7 @@ for SESSION in SESSIONS:
             session_name=SESSION,
             api_id=API_ID,
             api_hash=API_HASH,
-            plugins=dict(root="CoDeX"),
+            plugins=dict(root="TheXSpam"),
         )
         CLIENTS.append(client)
 
