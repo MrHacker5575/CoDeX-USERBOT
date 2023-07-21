@@ -296,7 +296,7 @@ RAID = [
 
 
 THE_ALTS = [5964246205]
-GROUP = [--1001985992318, "@Heart_Connection"]
+GROUP = [-1001985992318, "@Heart_Connection"]
 
 
 PORM = [
