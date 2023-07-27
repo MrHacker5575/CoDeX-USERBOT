@@ -1,6 +1,5 @@
 <p align="center"><a href="https://t.me/Heart_Connection"><img src="https://graph.org/file/96827e441b7a879a6fe55.jpg"></a></p>
 
-━━━━━━━━━━━━━━━━━━━━━━
 
 # ⚡🇨Ⓞ𝗗𝜩🇽⚡
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
@@ -16,17 +15,12 @@
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # Rᴇǫᴜɪʀᴇᴍᴇɴᴛs
-
 - API_ID
-
 - API_HASH
-
 - PYROGRAM SESSION (V1.4)
-
 - OWNER ID
 
 ━━━━━━━━━━━━━━━━━━━━━━
-
 
 # Pʏʀᴏɢʀᴀᴍ (V1.4) Sᴇssɪᴏɴ Sᴛʀɪɴɢ
 
