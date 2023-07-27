@@ -55,7 +55,7 @@
         },
         "SUDO_USERS": {
             "description": "Sudo Users ID",
-            "required": false
+            "required": true
         },
         "API_ID": {
             "description": "telegram api id here",
