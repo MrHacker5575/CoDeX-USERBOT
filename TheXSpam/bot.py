@@ -26,8 +26,7 @@ async def ping(_, e: Message):
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
       await Fuk.edit_text(f"⚡🇨Ⓞ𝗗𝜩🇽⚡\n◇ ᴘɪɴɢ: `{ms}ms`\n◇ ᴠᴇʀsɪᴏɴ: `3.3`")
-      await Fuk.edit_text(f"⚡🇨Ⓞ𝗗𝜩🇽⚡\n◇ ᴘɪɴɢ: `{ms}ms`\n◇ ᴠᴇʀsɪᴏɴ: `3.3`")
-
+      
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["alive"], ["/", ".", "!"]))
 async def alive(xspam: Client, msg: Message):
        if ".jpg" in ALIVE_PIC or ".png" in ALIVE_PIC:
