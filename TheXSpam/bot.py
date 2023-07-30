@@ -22,7 +22,7 @@ ALT = f"""❖⚡🇨Ⓞ𝗗𝜩🇽⚡❖
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["ping"], ["/", ".", "!"]))
 async def ping(_, e: Message):       
       start = datetime.datetime.now()
-      Fuk = await e.reply("**Ufff !!**")
+      Fuk = await e.reply("**Pong !!**")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
       await Fuk.edit_text(f"⚡🇨Ⓞ𝗗𝜩🇽⚡\n◇ ᴘɪɴɢ: `{ms}ms`\n◇ ᴠᴇʀsɪᴏɴ: `3.3`")
