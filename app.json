@@ -3,8 +3,8 @@
     "logo": "https://graph.org/file/96827e441b7a879a6fe55.jpg",
     "keywords": [
       "telegram",
-      "bot",
-      "Altron"
+      "UserBot",
+      "CoDeX"
     ],
       "buildpacks": [{
       "url": "heroku/python"
