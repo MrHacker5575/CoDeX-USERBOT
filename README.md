@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/Heart_Connection"><img src="https://graph.org/file/96827e441b7a879a6fe55.jpg"></a></p>
+<p align="center"><a href="https://t.me/Heart_Connection"><img src="https://graph.org/file/e061928cc09bbadbc7bd8.jpg"></a></p>
 
 
 # ⚡🇨Ⓞ𝗗𝜩🇽⚡
-ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
+ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ
 
 ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  
-[⚡🇨Ⓞ𝗗𝜩🇽⚡](https://t.me/Heart_Connection)
+[⚡🇨Ⓞ𝗗𝜩🇽⚡](https://t.me/UNIQUE_KING_475)
 
               ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
