@@ -11,10 +11,10 @@ from pyrogram.types import Message
 
 FIRST_TEXT = f"""★ 𝐂𝐨𝐃𝐞𝐗 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★
 
-**» ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Heart_Connerction/11)
-**» ʀᴀɪᴅ ᴄᴏᴍᴍᴀɴᴅꜱ:** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Heart_Connerction/12)
-**» ꜱᴘᴀᴍ ᴄᴏᴍᴍᴀɴᴅꜱ:** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Heart_Connerction/13)
-**» ᴅᴍ ᴄᴏᴍᴍᴀɴᴅꜱ:** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Heart_Connerction/14)"""
+**» ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:** [☆ 𝗖ο𝗗є𝙓 ☆](https://t.me/@Op_CoDeX/11)
+**» ʀᴀɪᴅ ᴄᴏᴍᴍᴀɴᴅꜱ:** [☆ 𝗖ο𝗗є𝙓 ☆](https://t.me/@Op_CoDeX/12)
+**» ꜱᴘᴀᴍ ᴄᴏᴍᴍᴀɴᴅꜱ:** [☆ 𝗖ο𝗗є𝙓 ☆](https://t.me/@Op_CoDeX/13)
+**» ᴅᴍ ᴄᴏᴍᴍᴀɴᴅꜱ:** [☆ 𝗖ο𝗗є𝙓 ☆](https://t.me/@Op_CoDeX/14)"""
 
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["help"], [".", "!", "/"]))
