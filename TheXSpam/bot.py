@@ -16,7 +16,7 @@ ALT = f"""❖⚡🇨Ⓞ𝗗𝜩🇽⚡❖
 ➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.11.1`
 ➠ **ᴘʏʀᴏ ᴠᴇʀsɪᴏɴ** : `1.4.16`
 ➠ **xꜱᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `3.3`
-➠ **ᴜᴘᴅᴀᴛᴇꜱ** : @@Op_CoDeX\n"""
+➠ **ᴜᴘᴅᴀᴛᴇꜱ** : @Op_CoDeX\n"""
 
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["ping"], ["/", ".", "!"]))
